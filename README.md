@@ -17,9 +17,9 @@
 
 <div align="center">
 
-| 📍 Location | 🏢 Current Role | 🎓 Education | 💼 Experience |
+| 📍 Location | 🏢 Current Role | 🎓 Education | <!---💼 Experience | --
 |:------------:|:---------------:|:------------:|:-------------:|
-| Lalitpur, Nepal | Deputy Manager<br>Nepal Can Group | BBA (Entrepreneurship)<br>Presidential Graduate School<br>GPA: 3.52 | 5+ Years<br>Business Operations |
+| Lalitpur, Nepal | Deputy Manager<br>Nepal Can Group | BBA (Entrepreneurship)<br>Presidential Graduate School<br>GPA: 3.52 | <!--- 5+ Years<br>Business Operations | -----
 
 </div>
 
